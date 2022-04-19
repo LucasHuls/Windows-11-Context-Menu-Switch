@@ -1,4 +1,6 @@
-![Classic Windows 10 and before context menu](https://github.com/LucasHuls/Windows-11-Context-Menu-Switch/blob/main/screenshots/ClassicContext.png) ![New Windows 11 and after context menu](https://github.com/LucasHuls/Windows-11-Context-Menu-Switch/blob/main/screenshots/ClassicContext.png)
+
+<img src="https://github.com/LucasHuls/Windows-11-Context-Menu-Switch/blob/main/screenshots/ClassicContext.png?raw=true" alt="Classic Windows 10 and before context menu" height="250" width="300"/> <img src="https://github.com/LucasHuls/Windows-11-Context-Menu-Switch/blob/main/screenshots/NewContext.png?raw=true" alt="New Windows 11 and after context menu" height="250" width="300"/>
+
 # Windows 11 Context Menu Switch Files
 Windows 11 brings a brand new user interface with more focus on simplification. It provides a clean and fresh design yet familiar. Windows 11 is built from the ground up to be more user-friendly and touch-friendly. The most significant changes are visible in the Start menu, Context menus, Taskbar, Settings, and the File Explorer. 
 
