@@ -16,11 +16,11 @@ Although the new context or right-click menu is simpler and cleaner, it is a bit
 
 > Step 2: Click Yes and Click OK
 
-> Step 3: Restart PC
+> Step 3: Open "**restart explorer.bat**"
 
 **Windows 11 and beyond version - NOT WORKING? RESTART REQUIRED AFTERWARDS!**
 > Step 1: Double click "**NewContext.reg**" and accept admin permission popup
 
 > Step 2: Click Yes and Click OK
 
-> Step 3: Check if context menu has changed. If not than Restart PC
+> Step 3: Check if context menu has changed. If not than open "**restart explorer.bat**"
